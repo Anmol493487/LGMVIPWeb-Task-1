@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://anmol493487.github.io/csb-v3msz7/static/css/main.49a20308.chunk.css",
+    "main.js": "https://anmol493487.github.io/csb-v3msz7/static/js/main.956516d6.chunk.js",
+    "main.js.map": "https://anmol493487.github.io/csb-v3msz7/static/js/main.956516d6.chunk.js.map",
+    "runtime-main.js": "https://anmol493487.github.io/csb-v3msz7/static/js/runtime-main.0888b94d.js",
+    "runtime-main.js.map": "https://anmol493487.github.io/csb-v3msz7/static/js/runtime-main.0888b94d.js.map",
+    "static/js/2.ca480675.chunk.js": "https://anmol493487.github.io/csb-v3msz7/static/js/2.ca480675.chunk.js",
+    "static/js/2.ca480675.chunk.js.map": "https://anmol493487.github.io/csb-v3msz7/static/js/2.ca480675.chunk.js.map",
+    "index.html": "https://anmol493487.github.io/csb-v3msz7/index.html",
+    "static/css/main.49a20308.chunk.css.map": "https://anmol493487.github.io/csb-v3msz7/static/css/main.49a20308.chunk.css.map",
+    "static/js/2.ca480675.chunk.js.LICENSE.txt": "https://anmol493487.github.io/csb-v3msz7/static/js/2.ca480675.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0888b94d.js",
+    "static/js/2.ca480675.chunk.js",
+    "static/css/main.49a20308.chunk.css",
+    "static/js/main.956516d6.chunk.js"
+  ]
+}
